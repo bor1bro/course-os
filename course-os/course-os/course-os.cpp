@@ -1,6 +1,6 @@
-﻿#include <iostream>
+﻿#include "..//Server_dll/Server_dll.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    
 }

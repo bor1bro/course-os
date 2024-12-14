@@ -1,0 +1,4 @@
+﻿  Server_dll.cpp
+D:\Coding\GithubRepos\course-os\course-os\Server_dll\Server_dll.cpp(38,6): warning C4273: runServer: несовместимое связывание dll
+D:\Coding\GithubRepos\course-os\course-os\Server_dll\Server_dll.h(14,35): message : см. предыдущее определение "runServer"
+LINK : fatal error LNK1104: не удается открыть файл "D:\Coding\GithubRepos\course-os\course-os\Server_dll\x64\Debug\kernel32.lib"

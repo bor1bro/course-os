@@ -1,0 +1,14 @@
+﻿  Server_dll.cpp
+D:\Coding\GithubRepos\course-os\course-os\Server_dll\Server_dll.cpp(38,6): warning C4273: runServer: несовместимое связывание dll
+D:\Coding\GithubRepos\course-os\course-os\Server_dll\Server_dll.h(14,35): message : см. предыдущее определение "runServer"
+x64\Release\Server_dll.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+     Создается библиотека D:\Coding\GithubRepos\course-os\course-os\x64\Release\Server_dll.lib и объект D:\Coding\GithubRepos\course-os\course-os\x64\Release\Server_dll.exp
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_htons.
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_recv.
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_socket.
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_listen.
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_closesocket.
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_bind.
+Server_dll.obj : error LNK2001: неразрешенный внешний символ __imp_accept.
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+D:\Coding\GithubRepos\course-os\course-os\x64\Release\Server_dll.exe : fatal error LNK1120: неразрешенных внешних элементов: 8

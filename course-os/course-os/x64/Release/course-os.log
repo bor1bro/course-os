@@ -1,0 +1,9 @@
+﻿  Client.cpp
+  course-os.cpp
+  Interface.cpp
+  Server.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 133 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  course-os.vcxproj -> D:\Coding\GithubRepos\course-os\course-os\x64\Release\course-os.exe
